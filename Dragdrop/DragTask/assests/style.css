@@ -1,0 +1,46 @@
+.main{
+
+    margin: 100px auto;
+    
+    display: flex;
+    
+    justify-content: center;
+    
+    align-items: center;
+    
+    width:700px;
+    
+    height:400px;
+    
+    border-radius:15px;
+    
+    background-color:grey;
+    
+    }
+    
+    i{
+    
+    color: white;
+    
+    font-size:50px;
+    
+    cursor: pointer;
+    
+    }
+    
+    body{ box-sizing: border-box;
+    
+    padding: 50px;
+}
+    
+    input{
+    
+    display: none;
+    
+    }
+    
+    .mark{
+    
+    color: red;
+    
+    }
